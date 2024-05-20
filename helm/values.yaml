@@ -52,6 +52,6 @@ ns:
   enable: false
 api-gateway:
   image:
-    tag: 0.51.2
+    tag: 0.84.1
   service:
     type: NodePort
