@@ -52,6 +52,6 @@ ns:
   enable: false
 api-gateway:
   image:
-    tag: 0.86.0
+    tag: 1.0.0-ea-latest
   service:
     type: NodePort
