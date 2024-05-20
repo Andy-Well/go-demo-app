@@ -54,4 +54,4 @@ api-gateway:
   image:
     tag: 1.14.4
   service:
-    type: LoadBalancer
+    type: NodePort
