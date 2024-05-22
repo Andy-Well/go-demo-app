@@ -54,4 +54,4 @@ api-gateway:
   image:
     tag: 1.0.0
   service:
-    type: ClusterIP
+    type: NodePort
